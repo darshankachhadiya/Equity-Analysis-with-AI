@@ -37,11 +37,11 @@ By incorporating **sentiment scores from financial news** with traditional marke
 
 | Member | Role |
 |--------|------|
-| Krati Pandya | Lead Researcher |
+| Darshankumar Kachhadiya | Lead Researcher |
+| Krati Pandya | Researcher |
 | Israr | Researcher |
 | Zeel Dobariya | Researcher |
 | Abhi Patel | Researcher |
-| Darshankumar Kachhadiya | Researcher |
 | Anushka Chettiar | Researcher |
 
 ---
